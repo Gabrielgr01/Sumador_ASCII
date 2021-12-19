@@ -4,4 +4,4 @@ Sumador de dos números de dos dígitos cada uno codificados en ASCII estándar 
 Colaboradores:
 - Adrian Dittel Retana
 - Gabriel O. González Rodríguez
-- Fabio Navarro Naranjo
+- Jose Fabio Navarro Naranjo
